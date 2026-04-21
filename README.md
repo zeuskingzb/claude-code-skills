@@ -14,3 +14,7 @@ meeting-minutes.md 是一个会议纪要skill
 使用skill-creator 创建一个产品原型设计skill，该skill用于快速生成产品原型
 ### 06_data-analysis
 数据分析skill
+### 07_ai-news
+创建一个AI资讯skill，用于获取每日最新的AI资讯
+### 08_skill-self-evolve
+使用场景：用于在多轮对话结束后，根据用户反馈引导过程，自动总结经验，然后生成优化版Skill。
