@@ -12,3 +12,5 @@ meeting-minutes.md 是一个会议纪要skill
 使用skill-creator 创建一个pinme-deploy skill，该skill用于实现静态页面发布功能。
 ### 05_product-prototype-design
 使用skill-creator 创建一个产品原型设计skill，该skill用于快速生成产品原型
+### 06_data-analysis
+数据分析skill
